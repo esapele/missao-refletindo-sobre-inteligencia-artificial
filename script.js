@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por curiosidade você decide ouvir a musica, oque ac ",
+        enunciado: "Por curiosidade você decide ouvir a musica, oque achou dela? ",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
