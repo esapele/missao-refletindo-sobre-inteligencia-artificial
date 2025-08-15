@@ -16,6 +16,26 @@ body {
     min-height: 100vh;
 }
 
+.musica {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.link{
+    text-decoration: none;
+     display: inline-block;
+     padding: 10px 20px;
+      background-color: var(--cor-principal);
+      color: var(--cor-destaque);
+      text-align: center;
+      border: none;
+      border-radius: 15px;
+      cursor: pointer;
+}
+
+.link:hover{
+    background-color: rgb(80, 45, 112);
+}
 .caixa-principal{
     background-color: var(--cor-principal);
     width: 90%;
