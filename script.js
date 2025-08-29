@@ -23,7 +23,9 @@ const perguntas = [
         alternativas: [
             {
                 texto: "amei muito boa",
-                afirmacao: "ao ouvir a musica achou espetacular, ja quis adicionar na playlist."
+                afirmacao: [ "ao ouvir a musica achou espetacular, ja quis adicionar na playlist.",
+                    "ouvindo a musica logo percebeu que era do seu estilo" 
+                ]
             },
             {
                 texto: "odiei muito paia",
@@ -98,11 +100,13 @@ function mostraAlternativas(){
 }
 
 function respostaSelecionada(opcaoSelecionada) {
-    const afirmacoes = opcaoSelecionada.afirmacao;
+    const afirmacoes = aleatorio(opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     atual++;
     mostraPergunta();
 }
+
+
 
 function mostraResultado() {
     caixaPerguntas.textContent = ".......";
