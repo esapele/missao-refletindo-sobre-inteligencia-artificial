@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Chama, adorei!",
-                afirmacao: "Logo de início ja gostou do estilo. "
+                afirmacao: "Logo de início ja gostou do nome. "
             },
             {
                 texto: "Não, achei o nome estranho",
@@ -22,51 +22,51 @@ const perguntas = [
         enunciado: "Por curiosidade você decide ouvir a musica, oque achou dela? ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "amei muito boa",
+                afirmacao: "ao ouvir a musica achou espetacular, ja quis adicionar na playlist."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "odiei muito paia",
+                afirmacao: "ao ouvir descobriu que seu gosto musical nao é refinado o suficiente para aprecia-la."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Pesquisando mais sobre a cantora, você descobre que ela se chama chappel roan e tem uma estetica muito singular, oque pensa sobre isso?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "muito é massa, achei muito diva.",
+                afirmacao: "e quando pesquisa mais sobre a cantora percebe que ela é muito altentica,e realmente aprecia o seu estilo."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "esquisito...",
+                afirmacao: "e quando pesquisa mais sobre a cantora, acaba achando seu forma de se portar estranha, não consegue se identificar com o que ela canta"
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "seu amigo vcem até você e diz que esta juntando dinheiro para ir ao show dela (que custa bem caro) como você reage",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "digo a meu amigo para achar algo melhor para gastar seu dinheirinho.",
+                afirmacao: "chega a conclusão de que ela não vale um grande gasto de dinheiro."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "faço de tudo para conseguir dinheiro para ir no show dela também.",
+                afirmacao: "Tornou ir a seus show um de seus objetivos principais e assim foi muito mais feliz em sua vida."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "chappel? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "roan.",
+                afirmacao: "você agora é um fã de chappel roan."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "chega dessa mulher.",
+                afirmacao: "o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "
             }
         ]
     },
