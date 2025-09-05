@@ -67,7 +67,7 @@ export const perguntas = [
                 texto: "faço de tudo para conseguir dinheiro para ir no show dela também.",
                 afirmacao: [ "Tornou ir a seus show um de seus objetivos principais e assim foi muito mais feliz em sua vida."                   
                 ],
-                proxima: 8,
+                proxima: 7,
             }
         ]
     },
@@ -77,12 +77,12 @@ export const perguntas = [
             {
                 texto: "roan.",
                 afirmacao:[ "você agora é um fã de chappel roan." ],
-                proxima: 9,
+               
             },
             {
                 texto: "chega dessa mulher.",
                 afirmacao: ["o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "],
-                proxima: 10,
+              
             }
         ]
     },
