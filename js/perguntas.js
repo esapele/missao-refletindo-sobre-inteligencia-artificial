@@ -43,13 +43,13 @@ export const perguntas = [
                 texto: "muito é massa, achei muito diva.",
                 afirmacao: [ "e quando pesquisa mais sobre a cantora percebe que ela é muito altentica,e realmente aprecia o seu estilo."
                 ],
-                proxima: 3,
+                proxima: 5,
             },
             {
                 texto: "esquisito...",
                 afirmacao: [ "e quando pesquisa mais sobre a cantora, acaba achando seu forma de se portar estranha, não consegue se identificar com o que ela canta"
                 ],
-                proxima: 4,
+                proxima: 6,
 
                 }
         ]
@@ -61,13 +61,13 @@ export const perguntas = [
                 texto: "digo a meu amigo para achar algo melhor para gastar seu dinheirinho.",
                 afirmacao: [ "chega a conclusão de que ela não vale um grande gasto de dinheiro."
                 ],
-                proxima: 5,
+                proxima: 7,
             },
             {
                 texto: "faço de tudo para conseguir dinheiro para ir no show dela também.",
                 afirmacao: [ "Tornou ir a seus show um de seus objetivos principais e assim foi muito mais feliz em sua vida."                   
                 ],
-                proxima: 6,
+                proxima: 8,
             }
         ]
     },
@@ -76,11 +76,13 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "roan.",
-                afirmacao:[ "você agora é um fã de chappel roan." ]
+                afirmacao:[ "você agora é um fã de chappel roan." ],
+                proxima: 9,
             },
             {
                 texto: "chega dessa mulher.",
-                afirmacao: ["o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "]
+                afirmacao: ["o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "],
+                proxima: 10,
             }
         ]
     },
