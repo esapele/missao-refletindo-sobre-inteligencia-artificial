@@ -55,7 +55,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "seu amigo vcem até você e diz que esta juntando dinheiro para ir ao show dela (que custa bem caro) como você reage",
+        enunciado: "seu amigo vem até você e diz que esta juntando dinheiro para ir ao show dela (que custa bem caro) como tu reage",
         alternativas: [
             {
                 texto: "digo a meu amigo para achar algo melhor para gastar seu dinheirinho.",
@@ -76,11 +76,11 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "roan.",
-                afirmacao: "você agora é um fã de chappel roan."
+                afirmacao:[ "você agora é um fã de chappel roan." ]
             },
             {
                 texto: "chega dessa mulher.",
-                afirmacao: "o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "
+                afirmacao: ["o nome desta famosa apareceu tanto em ua vida que você pegou raiva. "]
             }
         ]
     },
